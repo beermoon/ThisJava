@@ -7,7 +7,7 @@ public class SplitExample {
         // 문자열 분리
         String[] tokens = board.split(",");
 
- 
+
         // 인덱스별로 읽기
         System.out.println("번호 : " + tokens[0]);
         System.out.println("제목 : " + tokens[1]);
